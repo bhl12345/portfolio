@@ -35,8 +35,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p> .</p>
+                        <h2> <span></span></h2>
+                        <p></p>
                       </div>
                     </div>
                   </article>
@@ -46,7 +46,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
+                        <h2> <span></span></h2>
                         <p> </p> 
                       </div>
                     </div>

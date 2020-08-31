@@ -13,7 +13,7 @@ export default class Sidebar extends Component {
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/me.jpg)'}} />
               <h1 id="colorlib-logo"><a href="index.html">Brad Luken</a></h1>
-              <span className="email"><i className="icon-mail"></i> bhl12334@gmail.com</span>
+              <span className="email"><i className="icon-mail"></i>bhl12334@gmail.com</span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
@@ -28,7 +28,7 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                <li><a href="https://github.com/" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
+                <li><a href="https://github.com/bhl12345" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
               </ul>
             </nav>
             <div className="colorlib-footer">
@@ -37,7 +37,7 @@ export default class Sidebar extends Component {
                   Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for inspiration 
               </small></p>
               <p><small>
-                Something coming soon !!
+                Still Under Construction !!
               </small></p>
             </div>
           </aside>
