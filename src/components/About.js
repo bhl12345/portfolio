@@ -45,7 +45,7 @@ export default class About extends Component {
                     <h3>Development Technologies</h3>
                     <p>Java , JPA ,Spring JPA , Spring Boot, Maven , React , Hibernate , Spring Restful Services ,
                     Spring Tool Suite ,  Eclipse multiple versions,
-                    JavaScript, HTML, XML, CSS, VB, SQL, PostgresSQL, 
+                    JavaScript, HTML, XML, CSS, VB, SQL, 
                     Github, Gradle, VS Code, NPM, Apache-Tomcat, Glassfish, Web-sphere 7.5 -8.5 , 
                     New Relic Application Performance Monitor,  Liquibase,  Squirrel, Toad, ElipseLink, VSTS, 
                     CVS code repository, SVN code Repository, WinSCP, Microsoft Installer, Visual Studio, Microsoft Office Suite, SmartGWT,
