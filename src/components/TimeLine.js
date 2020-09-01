@@ -11,8 +11,8 @@ export default class Timeline extends Component {
           <div className="colorlib-narrow-content">
             <div className="row">
               <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">highlights</span>
-                <h2 className="colorlib-heading animate-box">Timeline</h2>
+                <span className="heading-meta"></span>
+                <h2 className="colorlib-heading animate-box">History</h2>
               </div>
             </div>
             <div className="row">
@@ -25,7 +25,10 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Private Development <span>2020-present</span></h2>
-                        <p> </p>
+                        <p> I have been doing private development including this site.
+                            Plus a full stack application that is a React, Spring RESTful services, 
+                            Spring Boot, Spring JPA Maven, Hibernate, MySql DB. As well as a some code to parse xml and insert record
+                            into the database and also create the nested xml.</p>
                       </div>
                     </div>
                   </article>
@@ -35,8 +38,10 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2> <span></span></h2>
-                        <p></p>
+                        <h2>Cyberdata Technologies<span> June 1, 2019 - March 1,2020  Java Developer</span></h2>
+                        <p>Developer for Inspector General Evaluation Management System (IGEMS web application
+                           Coded changes based on requirements by Air Force Material Command using java 7 HTML, CSS and JavaScript. Created JUnits for testing. Analyze code for dead code and well as possible re-factoring.
+                           Developed webservices and provided guidance on new technologies to streamline the development process.</p>
                       </div>
                     </div>
                   </article>
@@ -46,8 +51,15 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2> <span></span></h2>
-                        <p> </p> 
+                        <h2>Nationwide Financial<span> July 20,2015-Nov 2018– IT Specialist/Application Development</span></h2>
+                        <p>Participated in migration from legacy system to a web based solution. Wrote RESTful services for retirement plan administration as well as 
+                        for participant loans. 
+                        Services were new loans, refinance loans, loan amortization schedule, if the participant is eligible for a loan are a few examples. 
+                        Provided problem detection and resolution for a large distributed transactional system that is written in java 7. 
+                        The system consists of a java swing application as well as batch processing during the night that is written with java code as well. 
+                        Currently the swing UI is being replaced with a web application using JavaScript, CSS, Html as well as Angular. My responsibilities 
+                        for that application were the same as the swing UI just with different technology. 
+                        Data is stored in an Oracle 12 database. I used SQL to retrieve data as well as analyze and fix if needed </p> 
                       </div>
                     </div>
                   </article>

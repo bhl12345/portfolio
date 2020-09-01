@@ -17,7 +17,8 @@ export default class About extends Component {
                     <span className="heading-meta">About</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>I have been an IT professional since 1998. Technology changes quick 
-                    and for over 20 years I have learned and adapted to many of those changes. I thrive on taking such challenges. To me that is what makes the industry so exciting and self satisfying </p>
+                    and for over 20 years I have learned and adapted to many of those changes. 
+                    I am a person who thrives on new challenges. To me that is what makes the industry so exciting and self satisfying. </p>
                     <p></p>
                     </div>
                 </div>
@@ -31,7 +32,7 @@ export default class About extends Component {
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                 <span className="heading-meta"></span>
-                <h2 className="colorlib-heading">Roles and Tools used in SDLC</h2>
+                <h2 className="colorlib-heading">Tools I have used in the System Development Life Cycle</h2>
             </div>
             </div>
             <div className="row row-pt-md">
@@ -41,8 +42,14 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Application Development</h3>
-                    <p>I have experience</p>
+                    <h3>Development Technologies</h3>
+                    <p>Java , JPA ,Spring JPA , Spring Boot, Maven , React , Hibernate , Spring Restful Services ,
+                    Spring Tool Suite ,  Eclipse multiple versions,
+                    JavaScript, HTML, XML, CSS, VB, SQL, PostgresSQL, 
+                    Github, Gradle, VS Code, NPM, Apache-Tomcat, Glassfish, Web-sphere 7.5 -8.5 , 
+                    New Relic Application Performance Monitor,  Liquibase,  Squirrel, Toad, ElipseLink, VSTS, 
+                    CVS code repository, SVN code Repository, WinSCP, Microsoft Installer, Visual Studio, Microsoft Office Suite, SmartGWT,
+                    JIRA,Tortoise HG, Mercurial, JUnit, Mockito, Toad for Oracle, Apache-Tomcat, </p>
                 </div>
                 </div>
             </div>
@@ -53,7 +60,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Operating Systems</h3>
-                    <p> </p>
+                    <p>Windows up to version 10, Mac , Unix, VMS, </p>
                 </div>
                 </div>
             </div>
@@ -64,7 +71,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Databases</h3>
-                    <p> </p>
+                    <p> Oracle 12, Oracle 11, IBM DB2, SQL Server, MySql, Oracle RDB</p>
                 </div>
                 </div>
             </div>
