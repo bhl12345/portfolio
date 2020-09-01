@@ -71,7 +71,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Databases</h3>
-                    <p> Oracle 12, Oracle 11, IBM DB2, SQL Server, MySql, Oracle RDB</p>
+                    <p> Oracle 12, Oracle 11, PostgresSQL, Informix, H2, IBM DB2, SQL Server, MySql, Oracle RDB</p>
                 </div>
                 </div>
             </div>
