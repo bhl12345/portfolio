@@ -11,14 +11,14 @@ export default class Sidebar extends Component {
           <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></nav>
           <aside id="colorlib-aside" className="border js-fullheight" style={{backgroundImage: 'url(images/background-site.jpg)'}}>
             <div className="text-center">
-              <div className="author-img" style={{backgroundImage: 'url(images/me.jpg)'}} />
+              <div className="author-img" style={{backgroundImage: 'url(images/me2.jpg)'}} />
               <h1 id="colorlib-logo"><a href="index.html">Brad Luken</a></h1>
               <span className="email"><i className="icon-mail"></i>bhl12334@gmail.com</span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
                 <ul>
-                  <li className="active"><a href="#home" data-nav-section="home">Introduction</a></li>
+                  <li className="active"><a href="#home" data-nav-section="home">Home</a></li>
                   <li><a href="#about" data-nav-section="about">About</a></li>
                   {/*<li><a href="#" data-nav-section="projects">Projects</a></li>
                   <li><a href="#" data-nav-section="blog">Blog</a></li>*/}
