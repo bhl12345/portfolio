@@ -52,7 +52,7 @@ export default class About extends Component {
                     <i className="icon-monitor" />
                 </span>
                 <div className="desc">
-                    <h3></h3>
+                    <h3>Operating Systems</h3>
                     <p> </p>
                 </div>
                 </div>
