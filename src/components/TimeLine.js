@@ -40,7 +40,8 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>Cyberdata Technologies<span> June 1, 2019 - March 1,2020  Java Developer</span></h2>
                         <p>Developer for Inspector General Evaluation Management System (IGEMS web application
-                           Coded changes based on requirements by Air Force Material Command using java 7 HTML, CSS and JavaScript. Created JUnits for testing. Analyze code for dead code and well as possible re-factoring.
+                           Coded changes based on requirements by Air Force Material Command using java 7 HTML, CSS and JavaScript. 
+                           Created JUnits for testing. Analyzed code base for dead code and well as possible re-factoring opportunities.
                            Developed webservices and provided guidance on new technologies to streamline the development process.</p>
                       </div>
                     </div>
