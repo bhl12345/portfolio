@@ -19,8 +19,8 @@ export default class About extends Component {
                     <h1> I have been an IT professional since 1998. Technology changes quick 
                     and for over 20 years I have learned and adapted to many of those changes. 
                     I am a person who thrives on new challenges. To me that is what makes the industry so exciting and self satisfying. </h1>                   
-                    <h1>The passion I have to create viable solutions for my customers is unmatched by IT professionals. Whether those customer
-                    is and internal business customer or an external client.</h1>                  
+                    <h1>The passion I have to create viable solutions for my customers is unmatched by other IT professionals. Whether those customers
+                    be internal business customer or an external client.</h1>                  
                     </div>
                 </div>
                 </div>
