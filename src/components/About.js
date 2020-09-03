@@ -15,11 +15,12 @@ export default class About extends Component {
                 <div className="col-md-12">
                     <div className="about-desc">
                     <span className="heading-meta">About</span>
-                    <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I have been an IT professional since 1998. Technology changes quick 
+                    <h2 className="colorlib-heading">Who Am I?</h2>              
+                    <h1> I have been an IT professional since 1998. Technology changes quick 
                     and for over 20 years I have learned and adapted to many of those changes. 
-                    I am a person who thrives on new challenges. To me that is what makes the industry so exciting and self satisfying. </p>
-                    <p></p>
+                    I am a person who thrives on new challenges. To me that is what makes the industry so exciting and self satisfying. </h1>                   
+                    <h1>The passion I have to create viable solutions for my customers is unmatched by IT professionals. Whether those customer
+                    is and internal business customer or an external client.</h1>                  
                     </div>
                 </div>
                 </div>

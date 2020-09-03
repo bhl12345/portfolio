@@ -26,9 +26,21 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>Private Development <span>2020-present</span></h2>
                         <p> I have been doing private development including this site.
-                            Plus a full stack application that is a React, Spring RESTful services, 
-                            Spring Boot, Spring JPA Maven, Hibernate, MySql DB. As well as a some code to parse xml and insert record
-                            into the database and also create the nested xml.</p>
+                            The tools I am currently utilizing for full stack developement.
+                            <ul>
+                        	<br></br>
+                        		<li>Spring Tool Suite IDE</li>
+                        		<li>Java</li>
+                        		<li>JPA</li>
+                        		<li>Spring</li>
+                        		<li>Spring Boot</li>
+                        		<li>Hibernate</li>
+                        		<li>MySql DB</li>
+                        		<li>Maven</li>
+                        		<li>React</li>
+                        		<li>Bootstrap css</li>
+                        		<li>GitHub</li>
+                        </ul></p>
                       </div>
                     </div>
                   </article>
