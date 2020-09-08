@@ -20,7 +20,7 @@ export default class About extends Component {
                     and for over 20 years I have learned and adapted to many of those changes. 
                     I am a person who thrives on new challenges. To me that is what makes the industry so exciting and self satisfying. </h1>                   
                     <h1>The passion I have to create viable solutions for my customers is unmatched by other IT professionals. Whether those customers
-                    be internal business customers or an external clients.</h1>                  
+                    be internal business customers or external clients.</h1>                  
                     </div>
                 </div>
                 </div>
