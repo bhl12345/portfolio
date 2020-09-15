@@ -76,6 +76,65 @@ export default class Timeline extends Component {
                       </div>
                     </div>
                   </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                  <div className="timeline-entry-inner">
+                    <div className="timeline-icon color-5">
+                      <i className="icon-pen2" />
+                    </div>
+                    <div className="timeline-label">
+                    <h2>Contract Java Developer on site PCMS Datafit Cincinnati, Ohio<span> August 26,2014 - January 19,2015 </span></h2>
+                      <p>Developed a base product Point of Sale system using J2EE, CSS, Spring, HTML and XML.
+                      Met customer expectations for release date of internationalization of the Application
+                      Used agile methodology to ensure expectations met productivity Responsible for turning 
+                      Business Requirements into functional Java code. 
+                      Used Maven for project builds and dependency injection.
+                      Used JUnit and Mockito for unit testing. Regression tested UI with Auto Vera test suite. </p> 
+                    </div>
+                  </div>
+                </article>
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                <div className="timeline-entry-inner">
+                  <div className="timeline-icon color-5">
+                    <i className="icon-pen2" />
+                  </div>
+                  <div className="timeline-label">
+                  <h2>Contract Java Engineer  on site for Teradata. Dayton,Ohio<span> January 27,2014 - May 31,2014 </span></h2>
+                    <p>Upgraded Java and Apache versions to the latest and greatest versions so that a configuration 
+                    application could run on a Windows server. This provided a less costly way to upgrade their servers.</p> 
+                  </div>
+                </div>
+              </article>
+              <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+              <div className="timeline-entry-inner">
+                <div className="timeline-icon color-5">
+                  <i className="icon-pen2" />
+                </div>
+                <div className="timeline-label">
+                <h2>Java Developer Jenzabar Inc. Cincinnati, Ohio<span>April 1 2012 - Nov 5 2013 - Java Developer</span></h2>
+                  <p>In charge of integration with third party vendor to deal with payment plans.
+              		 Wrote backend logic as well as front end logic for a web-based Accounts Receivable system for institutions of high learning. Diagnosed and fixed code that did not function properly.
+              		 Used Maven for project builds. Developed using a webservice architecture. JUnit testing. Used liquibase change sets to create, update and delete database tables. Deployed application using Glassfish web server instance locally so that front end testing could be done to insure expected functionality.
+              		 Used SVN repository for code storage</p> 
+                </div>
+              </div>
+            </article>
+            <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+            <div className="timeline-entry-inner">
+              <div className="timeline-icon color-5">
+                <i className="icon-pen2" />
+              </div>
+              <div className="timeline-label">
+              <h2> <span></span></h2>
+                <p></p> 
+              </div>
+            </div>
+          </article>
+                  <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-none">
+                      </div>
+                    </div>
+                  </article>
                   <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-none">

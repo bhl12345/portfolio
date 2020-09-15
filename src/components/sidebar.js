@@ -37,7 +37,7 @@ export default class Sidebar extends Component {
                   Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for inspiration 
               </small></p>
               <p><small>
-                Still Under Construction !!
+               
               </small></p>
             </div>
           </aside>
