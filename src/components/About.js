@@ -9,9 +9,9 @@ export default class About extends Component {
       <div style={{backgroundImage: 'url(images/background-site.jpg)'}}>
         <section className="colorlib-about" data-section="about">
         <div className="colorlib-narrow-content">
-            <div className="row">
+           <div className="row">
             <div className="col-md-12">
-                <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
+              <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
                     <span className="heading-meta">About</span>
@@ -22,10 +22,10 @@ export default class About extends Component {
                     <h1>The passion I have to create viable solutions for my customers is unmatched by other IT professionals. Whether those customers
                     be internal business customers or external clients.</h1>                  
                     </div>
+                   </div>
                 </div>
-                </div>
-            </div>
-            </div>
+              </div>
+           </div>
         </div>
         </section>
         <section className="colorlib-about">

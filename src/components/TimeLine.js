@@ -124,8 +124,34 @@ export default class Timeline extends Component {
                 <i className="icon-pen2" />
               </div>
               <div className="timeline-label">
-              <h2> <span></span></h2>
-                <p></p> 
+              <h2>Navistar Inc. Springfield, Ohio <span> June 98 – March 2012 Multiple positions</span></h2>
+              <h2> Sr Application Analyst/Developer.<span> Feb 2008- March 2012 </span></h2>
+                <p>Coded J2EE clients using SOA architecture and Java web services.
+                   Experience using JDBC for both Oracle and SQL Server. Developed a java swing application used to print vehicle labels, in the productions 
+                   of International Truck and Engine. Hands on knowledge generating web service consumers, using the WSDL format. Strong experience using Rational Application Developer for WebSphere. Coded applications using Java 6 and JRE 1.6.0 and higher. 
+                   Integrated legacy systems into java. Provided stop gap application for the Department of Energy to provide data for electric vehicles. 
+                   This was in order to ensure Navistar received the grant money for the program. Developed applications for Intermec Scanners, 2425 and CK31</p>
+                   <h2> Sr Business Analyst<span> Sept 2005-Feb 2008 </span></h2>
+                   <p>Performed Business Analyst duties. This included gathering business and functional requirements, in addition to all documentation necessary for newly requested IT systems.
+                   Interfaced with the business community, both internal and external, to better understand their needs. Conducted requirement reviews with IT staff and business customers.
+                   Performed testing of bug fixes and new code for production Java applications. Conducted gap analysis for possible acquisition of additional products.</p>
+                   <h2> Application Analyst.<span> Jan 2001- Sept 2005 </span></h2>
+                   <p>Integral member of the team responsible for ramping up the Cab Assembly Plant in Springfield, Ohio. Traveled to Japan to interface with Hitachi Consultants to understand the new system for the Cab Plant.
+                   Responsible for the 24/7 on call support Cab Build System, working as the IT Liaison between the cab plant management staff and the IT organization. 
+                   The system is composed of MQ series, Java applications, DB2 databases, RSSQL, and RsLinx. Managed and coordinated the upgrade of the CBS system. 
+                   This included the addition of a SQL database running stored procedures, as well as additional ladder logic for PLCs on the shop floor. 
+                   QA tested, regression tested, and user acceptance tested all changes to the Cab Build System to insure a smooth install.
+                   </p>
+                   <h2> Application Support Analyst <span> June 1998- Jan 2001 </span></h2>
+                   <p>Responsible for Assembly Information System. Provided 24/7 on call support. 
+                   This system ran on a VAX VMS platform, Dec Control Language (DCL), C with an Oracle RDB backend. 
+                   The system had a user interface as well as a multitude of Batch Jobs which processed data nightly.
+                   Coordinated the stabilization of the AIS system. Managed two developers, a DBA, 
+                   as well as a System Administrator in order to prioritize, code, test and install all software changes into production.
+                   Responsible for the 24/7 support, as well as bug fixes for the Bill of Lading System at the Springfield Assembly Plant. 
+                   The system was used to weigh and print the BOL document so that vehicles could be shipped out of the plant. 
+                   The system was composed of VB applications with a SQL backend.
+                   </p>
               </div>
             </div>
           </article>
