@@ -16,11 +16,10 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>              
-                    <h1> I have been an IT professional since 1998. Technology changes quick 
-                    and for over 20 years I have learned and adapted to many of those changes. 
-                    I am a person who thrives on new challenges. To me that is what makes the industry so exciting and self satisfying. </h1>                   
-                    <h1>The passion I have to create viable solutions for my customers is unmatched by other IT professionals. Whether those customers
-                    be internal business customers or external clients.</h1>                  
+                    <h1> I have been an IT professional since 1998. I have experience in all phases of the development life cycle. Support Analyst, 
+                         Business Analyst and Software Developer are examples of positions I have held in my career. Technology changes quick and for over 20 years I have learned and adapted too many of those changes. 
+                         I am a person who thrives on new challenges. To me that is what makes the industry so exciting and self satisfying. The passion I have to create viable solutions for my customers is unmatched by other IT professionals. 
+                         Whether those customers be internal business customers or external clients.</h1>                  
                     </div>
                    </div>
                 </div>
